@@ -72,18 +72,6 @@ When I'm not coding, you might find me exploring new tech trends, reading about 
 </p>
 
 ---
-<--
-<h2 align="center" style="color: #44AEFB">💻 Projects 💻</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshSahoo01&repo=Bank_project_using_Django&theme=radical" alt="Bank Project Using Django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshSahoo01&repo=Ecomm_tailor_Django&theme=radical" alt="Ecommerce Tailor Project Using Django">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshSahoo01&repo=paswordgenerator&theme=radical" alt="Password Generator Using Python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnimeshSahoo01&repo=qrcodegenerator&theme=radical" alt="QR Code Generator Using Python">
-</div>
-
----
--->
 
 <h2 align="center" style="color: #44AEFB">📊 GitHub Stats 📊</h2>
 <div align="center">
