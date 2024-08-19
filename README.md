@@ -72,7 +72,7 @@ When I'm not coding, you might find me exploring new tech trends, reading about 
 </p>
 
 ---
-/*
+<--
 <h2 align="center" style="color: #44AEFB">💻 Projects 💻</h2>
 
 <div align="center">
@@ -83,7 +83,7 @@ When I'm not coding, you might find me exploring new tech trends, reading about 
 </div>
 
 ---
-*/
+-->
 
 <h2 align="center" style="color: #44AEFB">📊 GitHub Stats 📊</h2>
 <div align="center">
